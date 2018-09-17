@@ -24,6 +24,13 @@ h1 {
   font-weight: 900;
   font-size: 40px;
 }
+h2 {
+  text-align: center;
+  color:green;
+  font-family: 'Cinzel', sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+}
 ul {
   color: purple;
   font-family: 'Cinzel', serif;
