@@ -31,5 +31,6 @@ ul {
   font-size: 20px;
 }
 a:link {
+    color: green;
     text-decoration: none;
 }
