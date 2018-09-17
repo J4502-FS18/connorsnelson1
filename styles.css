@@ -24,9 +24,12 @@ h1 {
   font-weight: 900;
   font-size: 40px;
 }
-ol {
+ul {
   color: purple;
   font-family: 'Cinzel', serif;
   font-weight: 500;
   font-size: 20px;
+}
+a:link {
+    text-decoration: none;
 }
