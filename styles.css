@@ -52,3 +52,9 @@ a:link {
     color: green;
     text-decoration: none;
 }
+a img {
+  outline : none;
+}
+img {
+  border : 0;
+}
