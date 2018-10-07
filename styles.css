@@ -31,17 +31,6 @@ h2 {
   font-weight: 900;
   font-size: 40px;
 }
-ul {
-  color: purple;
-  font-family: 'Cinzel', serif;
-  font-weight: 500;
-  font-size: 20px;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 200px;
-  background-color: #f1f1f1;
-  }
 
   li a {
       display: block;
