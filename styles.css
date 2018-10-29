@@ -229,9 +229,9 @@ body {
       /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
       @media screen and (max-width: 600px) {
           .column {
-              width: 100%;
+              width: 75%;
           }
-      }      
+      }
 
     .grid-container {
       display: grid;
@@ -248,4 +248,4 @@ body {
     }
 
 </style>
-</head>
+/head>
