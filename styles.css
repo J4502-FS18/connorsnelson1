@@ -216,8 +216,8 @@ body {
 
 .grid-container {
   display: grid;
-  grid-template: 600px / auto auto auto;
-  grid-gap: 20px;
+  grid-template: 300px / auto auto auto;
+  grid-gap: 200px;
   background-color: #2196F3;
   padding: 15px;
 }
