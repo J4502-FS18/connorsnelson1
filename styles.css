@@ -34,7 +34,27 @@ header {
   flex-flow: row;
 
 }
+nav ul li {
+  display: none;
+}
+@media screen and (min-width:700px){
+  nav ul{
+    display: flex;
+  }
+  nav ul li{
+    border-top: none;
 
+  }
+  .menu-trigger{
+    display: none;
+      }
+  nav{
+    order: 2;
+  }
+  header h1{
+    order:1;
+  }
+}
 h1 {
   color:blue;
   font-family: 'Roboto', sans-serif;
