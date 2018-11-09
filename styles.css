@@ -2,8 +2,17 @@
   background-color: #ebe3ce;
   font-size: 20px;
 }
+nav ul li {
+  display: block;
+  border-top: 1px #78896D solid;
+}
 
-
+nav a {
+  color: #F8ECC2;
+  display: block;
+  text-decoration: none;
+  padding: 20px 30px;
+}
 
 p {
   color:red;
@@ -17,13 +26,22 @@ p {
 .first{
   font-style: italic;
 }
+header {
+  background-color: #65A8A6;
+  margin: 0;
+  padding:0 10px;
+  display: flex;
+  flex-flow: row;
+
+}
 
 h1 {
   color:blue;
   font-family: 'Roboto', sans-serif;
   font-weight: 900;
   font-size: 40px;
-}
+  }
+
 h2 {
   text-align: center;
   color:green;
